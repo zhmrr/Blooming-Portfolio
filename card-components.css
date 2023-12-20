@@ -1,0 +1,27 @@
+.main-content-card{
+    width: 100%;
+    border-radius: 10px;
+    background-color: #ffe7a66c;
+}
+
+.card1 {
+    background-image: url('/photos/birthday.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.card-body {
+    padding-top: 30px;
+}
+
+.main-content-button {
+    background-color:#FFE7A6;
+    font-family: 'Jacques Francois';
+    color: black;
+    font-size: 22px;
+    border: 0;
+    border-radius: 0;
+    line-height:1;
+
+}
