@@ -1,0 +1,63 @@
+body {
+    background-color: #ffffff;
+    color: #333;
+}
+
+
+.card {
+    background-color: #f5f5f5; /* Light Gray */
+    border: none;
+}
+
+.footer {
+    background-color: #ffc0cb; /* Pastel Pink */
+    color: #fff;
+    padding: 15px 0;
+    text-align: center;
+}
+
+.jumbotron {
+    background-image: url('/photos/flower\ backrgound.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #ffffff;
+}
+
+.font-basker {
+    font-family: 'Baskerville' !important;
+    font-size: 70px;
+    
+}
+
+.font-jac {
+    font-family: 'Jacques Francois' ;
+}
+
+.button-style {
+    background-color: rgba(255, 255, 255, 0.836) !important;
+    border-radius: 0;
+    color:rgba(0, 0, 0, 0.57) !important;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.gift-button {
+    background-color: #FFE7A6;
+    border: none;
+    color: black;
+    margin-top: 20px;
+    width: 28%;
+    border-radius: 150px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.shadow-text {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.main-content-header {
+    font-size: 35px;
+    text-align: center;
+    margin: 0 !important;
+}
+
+
