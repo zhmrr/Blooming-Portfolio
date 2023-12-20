@@ -1,0 +1,48 @@
+.gallery-header {
+    font-size: 30px;
+    text-align: left;
+    margin: 55px 0 20px 35px;
+    font-weight: 650;
+}
+
+.photo-margin {
+    margin-right:50px !important;
+}
+
+.row {
+    flex-wrap: nowrap;
+    flex:auto;
+}
+
+.font-sura {
+    font-family: 'Sura';
+    font-size: 20px;
+}
+
+.gallery-content {
+    background-color: white;
+}
+
+.gallery-card {
+    background-color: white !important;
+    display: flex;
+    flex-direction: column;
+}
+
+.header-row {
+    display: flex;
+    flex-direction: row;
+}
+
+.arrow-icons {
+    margin: 55px 65px 20px 0;
+}
+.margin-left-30px {
+    margin-left: 30px 
+}
+
+.line {
+    color: black;
+    height: 1.5px; 
+    background-color: black; 
+}
